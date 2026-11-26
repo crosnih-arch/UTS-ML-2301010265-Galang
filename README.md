@@ -2,13 +2,13 @@
 ## Klasifikasi Potensi Nasabah Berlangganan Deposito Menggunakan Support Vector Machine (SVM)
 
 ### Identitas Mahasiswa
-- **Nama:** [Galang Ombak Wahyu Syahputra]
+- **Nama:** Galang Ombak Wahyu Syahputra
 - **NIM:** [2301010265]
 - **Program Studi:** Informatika
 - **Mata Kuliah:** Machine Learning
 - **Dosen:** Dr. I Gede Totok Suryawan, S.Kom., M.T.
 - **Semester:** Ganjil
-- **Kelas:** [XX]
+- **Kelas:** XX
 
 ---
 
